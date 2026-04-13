@@ -1,1 +1,3 @@
-# gamehub
+## Grupo:
+- Arthur Nunes
+- Pedro Sante
